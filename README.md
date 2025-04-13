@@ -17,3 +17,5 @@ https://github.com/noran-mohamed
 Running Project:
 
 * Streamlit runs locally once code is run in IDE. It creates a local host to run in your browser.
+* Link to Video Demo:
+https://youtu.be/tuDykTjaqR4 
